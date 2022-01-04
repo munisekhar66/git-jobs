@@ -8,6 +8,6 @@
 -->
 
   <role rolename="manager-gui"/>
-  <user username="Admin" password="Admin" roles="manager-gui"/>
+  <user username="admin" password="admin123" roles="manager-gui"/>
 
 </tomcat-users>
